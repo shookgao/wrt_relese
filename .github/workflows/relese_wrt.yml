@@ -21,6 +21,7 @@ on:
           - zn_m2_libwrt
           - x64_immwrt
           - jdcloud_ax1800pro_libwrt
+          - jdcloud_ax1800pro_wifino_libwrt
       runs-on:
         required: true
         description: Runs on...
