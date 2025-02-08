@@ -20,6 +20,7 @@ on:
           - redmi_ax6000_immwrt21
           - zn_m2_libwrt
           - x64_immwrt
+          - jdcloud_ax5_wifino_libwrt
       runs-on:
         required: true
         description: Runs on...
